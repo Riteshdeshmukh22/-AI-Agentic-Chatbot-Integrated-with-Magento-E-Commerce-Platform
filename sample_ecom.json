@@ -1,0 +1,122 @@
+[
+    {
+        "product_id": "P001",
+        "name": "Wireless Bluetooth Headphones",
+        "category": "Electronics",
+        "price": 49.99,
+        "stock": 120,
+        "brand": "SoundPro",
+        "description": "High-quality wireless headphones with noise-cancellation",
+        "rating": 4.5,
+        "reviews_count": 315,
+        "image_url": "https://example.com/images/headphones.jpg"
+    },
+    {
+        "product_id": "P002",
+        "name": "4K Ultra HD Smart TV",
+        "category": "Electronics",
+        "price": 599.99,
+        "stock": 30,
+        "brand": "VisionX",
+        "description": "Smart TV with voice control, 4K resolution, and built-in apps",
+        "rating": 4.7,
+        "reviews_count": 212,
+        "image_url": "https://example.com/images/smarttv.jpg"
+    },
+    {
+        "product_id": "P003",
+        "name": "Wireless Mouse",
+        "category": "Accessories",
+        "price": 19.99,
+        "stock": 250,
+        "brand": "Logitech",
+        "description": "Ergonomic wireless mouse for comfort and ease",
+        "rating": 4.3,
+        "reviews_count": 122,
+        "image_url": "https://example.com/images/mouse.jpg"
+    },
+    {
+        "product_id": "P004",
+        "name": "Gaming Laptop",
+        "category": "Computers",
+        "price": 1299.99,
+        "stock": 10,
+        "brand": "Alienware",
+        "description": "High-performance laptop with 16GB RAM and GTX 1660 GPU",
+        "rating": 4.9,
+        "reviews_count": 57,
+        "image_url": "https://example.com/images/laptop.jpg"
+    },
+    {
+        "product_id": "P005",
+        "name": "Ergonomic Office Chair",
+        "category": "Furniture",
+        "price": 199.99,
+        "stock": 150,
+        "brand": "Herman Miller",
+        "description": "Comfortable and adjustable chair for all-day use",
+        "rating": 4.6,
+        "reviews_count": 210,
+        "image_url": "https://example.com/images/chair.jpg"
+    },
+    {
+        "product_id": "P006",
+        "name": "Portable Bluetooth Speaker",
+        "category": "Electronics",
+        "price": 79.99,
+        "stock": 80,
+        "brand": "JBL",
+        "description": "Compact, waterproof speaker with powerful sound",
+        "rating": 4.7,
+        "reviews_count": 144,
+        "image_url": "https://example.com/images/speaker.jpg"
+    },
+    {
+        "product_id": "P007",
+        "name": "Smartphone - 128GB",
+        "category": "Electronics",
+        "price": 799.99,
+        "stock": 60,
+        "brand": "Apple",
+        "description": "iPhone with 128GB storage, great camera, and A14 chip",
+        "rating": 4.8,
+        "reviews_count": 512,
+        "image_url": "https://example.com/images/iphone.jpg"
+    },
+    {
+        "product_id": "P008",
+        "name": "Instant Pot 6QT",
+        "category": "Home Appliances",
+        "price": 89.99,
+        "stock": 200,
+        "brand": "Instant Pot",
+        "description": "Multi-use pressure cooker with 6-quart capacity",
+        "rating": 4.6,
+        "reviews_count": 210,
+        "image_url": "https://example.com/images/instantpot.jpg"
+    },
+    {
+        "product_id": "P009",
+        "name": "Stainless Steel Kitchen Knife Set",
+        "category": "Home & Kitchen",
+        "price": 45.99,
+        "stock": 85,
+        "brand": "Cuisinart",
+        "description": "Professional-grade knife set with 12 pieces",
+        "rating": 4.4,
+        "reviews_count": 130,
+        "image_url": "https://example.com/images/knifeset.jpg"
+    },
+    {
+        "product_id": "P010",
+        "name": "Men's Running Shoes",
+        "category": "Sportswear",
+        "price": 59.99,
+        "stock": 180,
+        "brand": "Nike",
+        "description": "Lightweight running shoes for men with enhanced grip",
+        "rating": 4.5,
+        "reviews_count": 295,
+        "image_url": "https://example.com/images/runningshoes.jpg"
+    }
+]

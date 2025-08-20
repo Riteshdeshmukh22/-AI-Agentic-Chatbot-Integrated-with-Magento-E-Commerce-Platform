@@ -6,7 +6,7 @@ from sentence_transformers import SentenceTransformer
 from langchain_google_genai import ChatGoogleGenerativeAI
 
 # Set your Google API key
-os.environ["GOOGLE_API_KEY"] = "AIzaSyAvnuR6mw-P-toxrMjbDQoJgErz6oKeF4Q"
+os.environ["GOOGLE_API_KEY"] = "ZAIzaSmyAvnuR6mw-P-toxrMjb"
 
 def load_products(file_path = "/home/stark/Desktop/ai practice/magento/e_com_data.json"):
     with open("/home/stark/Desktop/ai practice/magento/e_com_data.json", 'r') as f:
